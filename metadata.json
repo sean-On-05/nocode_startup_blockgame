@@ -1,0 +1,6 @@
+{
+  "name": "블록블라스트 (Block Blast) - 글로벌 리더보드 & 친구 대결",
+  "description": "중독성 넘치는 8x8 보석 블록 퍼즐 게임! 콤보 폭발과 전 세계 실시간 랭킹, 친구 점수 공유 및 시드 대결 챌린지를 즐겨보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
